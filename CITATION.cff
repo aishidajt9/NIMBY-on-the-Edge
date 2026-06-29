@@ -11,7 +11,17 @@ authors:
     given-names: Yutaka
     affiliation: "Shinshu University"
 license: MIT
+version: v1.0.0
+doi: "10.5281/zenodo.21046894"
+date-released: 2026-06-29
 repository-code: "https://github.com/aishidajt9/NIMBY-on-the-Edge"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21046894"
+    description: "Concept DOI (always resolves to the latest version)"
+  - type: doi
+    value: "10.5281/zenodo.21046895"
+    description: "Version DOI for v1.0.0"
 preferred-citation:
   type: article
   title: "NIMBY on the Edge: A One-dimensional Model of NIMBY Facility Siting"

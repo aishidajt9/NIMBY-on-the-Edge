@@ -1,8 +1,12 @@
 # NIMBY on the Edge: A One-dimensional Model of NIMBY Facility Siting
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21046894.svg)](https://doi.org/10.5281/zenodo.21046894)
+
 Replication code and data for:
 
 > Ishida, A. & Maeda, Y. (forthcoming). NIMBY on the Edge: A One-dimensional Model of NIMBY Facility Siting. *Journal of Mathematical Sociology*.
+
+Archived on Zenodo: [https://doi.org/10.5281/zenodo.21046894](https://doi.org/10.5281/zenodo.21046894)
 
 ## Files
 
