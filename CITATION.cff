@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the article and this repository."
+title: "NIMBY on the Edge: A One-dimensional Model of NIMBY Facility Siting (replication code and data)"
+type: software
+authors:
+  - family-names: Ishida
+    given-names: Atsushi
+    orcid: "https://orcid.org/0000-0001-5301-9838"
+    affiliation: "Kwansei Gakuin University"
+  - family-names: Maeda
+    given-names: Yutaka
+    affiliation: "Shinshu University"
+license: MIT
+repository-code: "https://github.com/aishidajt9/NIMBY-on-the-Edge"
+preferred-citation:
+  type: article
+  title: "NIMBY on the Edge: A One-dimensional Model of NIMBY Facility Siting"
+  authors:
+    - family-names: Ishida
+      given-names: Atsushi
+      orcid: "https://orcid.org/0000-0001-5301-9838"
+      affiliation: "Kwansei Gakuin University"
+    - family-names: Maeda
+      given-names: Yutaka
+      affiliation: "Shinshu University"
+  journal: "Journal of Mathematical Sociology"
+  year: 2026
